@@ -1,2 +1,1 @@
-# fincursohenry
-este es un repositorio de prueba curso henry
+esto es una prueba de como crear y clonar un repositorio desde github a mi escritorio
